@@ -1,0 +1,7 @@
+.item-image {
+  background: #000;
+}
+ 
+.item-image img:first-child, .item-image .list-img {
+  width: 200px;
+}
